@@ -9,13 +9,13 @@ This project mainly utilizes Python and unsupervised learning to predict and plo
 
 **Elbow Curve Composite**
 
-![Elbow Curve Plot with Original Data](Images/"elbow_original.png")
-![Elbow Curve Plot with PCA Data](Images/"elbow_pca.png")
+![Elbow Curve Plot with Original Data](Images/elbow_original.png)
+![Elbow Curve Plot with PCA Data](Images/elbow_pca.png)
 
 
 **K-Means Clustering Composite**
-![K-Means Clusters Scatter Plot with Original Data](Images/"cluster_original.png")
-![Elbow Curve Plot with Original Data](Images/"cluster_pca.png")
+![K-Means Clusters Scatter Plot with Original Data](Images/cluster_original.png)
+![Elbow Curve Plot with Original Data](Images/cluster_pca.png)
 
 <ins>Challenges</ins>
 
