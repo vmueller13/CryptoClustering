@@ -1,4 +1,4 @@
-# Module 19 Challenge: CryptoClustering
+# CryptoClustering
 <ins>Project Overview</ins>
 -----
 
